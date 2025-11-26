@@ -1,0 +1,10 @@
+vendor/ export-ignore
+support/ export-ignore
+
+Makefile export-ignore
+
+.git* export-ignore
+.dockerignore export-ignore
+
+php* export-ignore
+.env export-ignore

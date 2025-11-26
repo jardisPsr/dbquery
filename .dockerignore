@@ -1,0 +1,18 @@
+.idea/
+.DS_Store
+.claude
+
+vendor/
+
+# temp files
+*.log
+*.tmp
+*.cache
+
+# vcs files
+.git*
+# ide files
+.idea*
+
+# config environemnt
+.env
