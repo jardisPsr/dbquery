@@ -1,18 +1,13 @@
-.idea/
-.DS_Store
-.claude
+# files
+.git*
+.idea*
+.claude*
 
+#. libs
+tests/reports/
 vendor/
 
 # temp files
 *.log
 *.tmp
 *.cache
-
-# vcs files
-.git*
-# ide files
-.idea*
-
-# config environemnt
-.env
